@@ -1,15 +1,17 @@
+# VeryAwesome Keylogger
+
 ## Synopsis
 
 This is an old Keylogger i made for windows 7.
 
-# GUI dir
+## GUI dir
 
 This is a C# windows form.
 
-# hook 
+## hook 
 
 The actuall hook code.
 
-#test
+## test
 
 A test.
